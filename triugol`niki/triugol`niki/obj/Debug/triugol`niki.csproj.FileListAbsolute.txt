@@ -1,0 +1,11 @@
+C:\MKod\С#\triugol`niki\bin\Debug\triugol`niki.exe.config
+C:\MKod\С#\triugol`niki\bin\Debug\triugol`niki.exe
+C:\MKod\С#\triugol`niki\bin\Debug\triugol`niki.pdb
+C:\MKod\С#\triugol`niki\obj\Debug\triugol`niki.csproj.AssemblyReference.cache
+C:\MKod\С#\triugol`niki\obj\Debug\triugol`niki.csproj.SuggestedBindingRedirects.cache
+C:\MKod\С#\triugol`niki\obj\Debug\triugol_niki.Properties.Resources.resources
+C:\MKod\С#\triugol`niki\obj\Debug\triugol`niki.csproj.GenerateResource.cache
+C:\MKod\С#\triugol`niki\obj\Debug\triugol`niki.csproj.CoreCompileInputs.cache
+C:\MKod\С#\triugol`niki\obj\Debug\triugol`niki.exe
+C:\MKod\С#\triugol`niki\obj\Debug\triugol`niki.pdb
+C:\MKod\С#\triugol`niki\obj\Debug\triugol_niki.Form1.resources
